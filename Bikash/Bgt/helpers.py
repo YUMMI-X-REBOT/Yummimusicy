@@ -59,7 +59,7 @@ HELP_4 = """🌐**<u>BROADCAST FUNCTION:</u>**
 
 **-nobot** : This will force your bot to not broadcast message
 
-**Example:** `/broadcast -user -assistant -pin Hello Testing`
+**Example:** `/broadcast -user -assistant -pin yummi testing`
 
 """
 HELP_5 = """✅<u>**Extra  Commands:**</u>
@@ -75,7 +75,7 @@ HELP_5 = """✅<u>**Extra  Commands:**</u>
 
 /seekback or /cseekback - Backward Seek the music to your duration
 
-/bikash - check who is Bikash
+/yummi - check who is Yummi
 
 /repo - for repo
 
@@ -101,7 +101,7 @@ HELP_7 = """✨ **ping cmd :**
 
 HELP_8 = """✅<u>**Play Commands:**</u>
 
-Available Commands = play, bgt, vplay , cplay
+Available Commands = play, yummi, vplay , cplay
 
 ForcePlay Commands = playforce , bgtforce vplayforce , cplayforce
 
@@ -109,7 +109,7 @@ ForcePlay Commands = playforce , bgtforce vplayforce , cplayforce
 **v** stands for video play.
 **force** stands for force play.
 
-/play or /bgt or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
+/play or /yummi or /vplay or /cplay  - Bot will start playing your given query on voice chat or Stream live links on voice chats.
 
 /playforce or /force or /vplayforce or /cplayforce -  **Force Play** stops the current playing track on voice chat and starts playing the searched track instantly without disturbing/clearing queue.
 
@@ -164,7 +164,7 @@ HELP_11 = """😅**<u> started with bot</u>**
 
 /settings - Get a complete group's settings with inline buttons.
 
-/sudolist - Check Sudo Users of Bikash Aditya Player Bot"""
+/sudolist - Check Sudo Users of yummi Player Bot"""
 
 HELP_12 = """👤**<u>GBAN FUNCTION:</u>**
 
